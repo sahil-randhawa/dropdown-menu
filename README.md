@@ -1,6 +1,6 @@
 # Dropdown-menu 
 
-## HTML CSS mini project
+### HTML CSS mini project
 
 Creating responsive design dropdown menus for website navbar/header.
 
@@ -14,7 +14,7 @@ Creating responsive design dropdown menus for website navbar/header.
 Preview URL : [https://sahil-randhawa.github.io/dropdown-menu/](https://sahil-randhawa.github.io/dropdown-menu/)
 
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
