@@ -6,7 +6,7 @@ Creating responsive design dropdown menus for website navbar/header.
 
 ### Screenshot
 
-![Desktop](./screenshot_1.png)
+![Desktop](./Screenshot_1.png)
 
 
 ### Links
